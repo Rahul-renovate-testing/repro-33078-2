@@ -1,10 +1,7 @@
 {
-  "dependencies": {
-    "xmldoc": "1.0.0"
-  },
-  "renovate": {
-    "enabledManagers": ["npm"],
-    "dependencyDashboard": true,
-    "binarySource": "auto"
-  }
+  "enabledManagers": [
+    "npm"
+  ],
+  "dependencyDashboard": true,
+  "binarySource": "global"
 }
